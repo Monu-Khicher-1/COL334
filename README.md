@@ -16,7 +16,7 @@ Run following commands to install iperf:
  
  * `sudo apt install iperf3`
  
-## ns3
+## NS3
 Tool for network setup and running network layer algorithms on local system.
 
 ### Installation steps
